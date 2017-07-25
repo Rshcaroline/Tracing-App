@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\here4_grey.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\here4_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_dorm.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_dorm.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\failed_image.jpg",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\failed_image.jpg"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gf_crop_texture.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable\\bg_gf_crop_texture.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_image.jpg",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\default_image.jpg"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_lib.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_lib.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_bookstore.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_bookstore.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_station.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_station.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\here3_blue.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\here3_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\here3_grey.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\here3_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tmpfudan.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\tmpfudan.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_grey.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\camera_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar2_grey.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar2_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_direction.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\background_direction.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navi_map_gps_locked.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compass.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\compass.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_311.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_311.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_back.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_msg.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\background_msg.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearby2.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\nearby2.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newfootprint.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\newfootprint.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_cinema.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_cinema.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_gate.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_gate.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\tools.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\here4_green.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\here4_green.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head1.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\head1.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_white.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\camera_white.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group2.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\group2.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timg.jpg",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\timg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar2_active.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar2_active.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_zju.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_zju.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ilikehere.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ilikehere.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ar_meeting.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ar_meeting.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit_to_app_white.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable\\ic_exit_to_app_white.png"
+    }
+]

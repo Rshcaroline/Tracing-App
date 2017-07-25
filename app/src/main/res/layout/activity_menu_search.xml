@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/AppTheme"
+            app:theme="@style/ToolbarTheme"
+            app:popupTheme="@style/ToolbarPopupTheme"
+            >
+        </android.support.v7.widget.Toolbar>
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp" >
+        <EditText
+            android:id="@+id/search1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:hint="Type something here..."
+            android:textColor="#4D4D4D" />
+
+        <Button
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="搜索"
+            android:background="@drawable/button_selector"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:itemTextColor="#2B2B2B"
+        app:itemIconTint="#2B2B2B"
+        app:menu="@menu/nav_menu"
+        app:headerLayout="@layout/nav_header" >
+    </android.support.design.widget.NavigationView>
+    <!-- 主内容区的布局代码要放在侧滑菜单布局的前面,这可以帮助DrawerLayout判断谁是侧滑菜单，谁是主内容区 -->
+    <!-- -->
+
+</android.support.v4.widget.DrawerLayout>

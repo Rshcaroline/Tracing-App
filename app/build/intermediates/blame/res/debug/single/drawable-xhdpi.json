@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_with.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_with.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_done.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_camera.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gf_ic_preview.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_rotate.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_camera.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_photo.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_delete_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_default_photo.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_default_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_triangle_arrow.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_triangle_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arc_bg.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\arc_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_sleep.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_sleep.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_clear.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_button.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_button.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arc_progress.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\arc_progress.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_thought.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_thought.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_music.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_music.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_icn_plus.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_icn_plus.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_crop.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_back.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_crop_tile.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_place.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_place.png"
+    }
+]

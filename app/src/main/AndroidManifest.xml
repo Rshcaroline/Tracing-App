@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fdwireless.trace.mapmodule">
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="22" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:glEsVersion="0x00020000" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch.distinct"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 高德地图所需要的基础权限 -->
+    <!-- 用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 用于访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 用于申请调用A-GPS模块 -->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!-- 用于申请获取蓝牙信息进行室内定位 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="b04aecd0cdd6eab67517a82641651c5b" />
+
+        <service android:name="com.amap.api.location.APSService" />
+
+        <activity android:name="com.fdwireless.trace.ui.main.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fdwireless.trace.ui.main.MainActivity"
+            android:label="Tracing" />
+        <activity
+            android:name=".CardActivity"
+            android:theme="@style/CardActivity" />
+        <activity
+            android:name=".NewClipActivity"
+            android:theme="@style/NewClipActivity" />
+        <activity android:name="com.fdwireless.trace.ui.main.RegisterActivity" />
+        <activity android:name="com.fdwireless.trace.ui.nav.NavUser" />
+        <activity android:name="com.fdwireless.trace.ui.nav.NavFriends" />
+        <activity android:name="com.fdwireless.trace.ui.nav.NavTeam" />
+        <activity android:name="com.fdwireless.trace.ui.nav.NavSettings" />
+
+        <activity android:name="com.fdwireless.trace.ui.friend_circle.NearbyActivity" />
+        <activity android:name="com.fdwireless.trace.ui.menu.MenuSearch"
+            android:label="Tracing"/>
+        <activity android:name="com.fdwireless.trace.ui.menu.MenuGroupPeople"
+            android:theme="@style/GroupActivity"
+            android:label=" " />
+        <activity android:name="com.fdwireless.trace.ui.team.GroupFour" />
+        <activity android:name="com.fdwireless.trace.ui.menu.MenuSendNearby">
+
+        </activity>
+
+
+        <activity
+            android:name="com.fdwireless.trace.ar.UnityPlayerNativeActivity"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="fullSensor">
+
+
+            <meta-data
+                android:name="unityplayer.UnityActivity"
+                android:value="true" />
+            <meta-data
+                android:name="unityplayer.ForwardNativeEventsToDalvik"
+                android:value="false" />
+        </activity>
+        <activity
+            android:name="com.fdwireless.trace.ar.SecondActivity"
+            android:process=":secondplayer"
+            android:launchMode="singleInstance"
+            android:theme="@style/GroupActivity"
+            android:label="Hello baby"></activity>
+        <activity
+            android:name="com.fdwireless.trace.ar.UnityPlayerActivity"
+            android:process=":unityplayer"
+            android:launchMode="singleInstance"></activity>
+        <activity
+            android:name="com.unity3d.player.VideoPlayer"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!--
+            To support devices using the TI S3D library for stereo mode we must
+            add the following library.
+            Devices that require this are: ODG X6
+        -->
+        <uses-library
+            android:name="com.ti.s3d"
+            android:required="false" />
+        <!-- To support the ODG R7 in stereo mode we must add the following library. -->
+        <uses-library
+            android:name="com.osterhoutgroup.api.ext"
+            android:required="false" />
+    </application>
+
+</manifest>

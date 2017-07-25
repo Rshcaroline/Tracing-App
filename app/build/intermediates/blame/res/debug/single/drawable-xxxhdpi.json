@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_done.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_rotate.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_camera.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_crop.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_clear.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_preview.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_preview.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_gf_back.png",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xxxhdpi\\ic_gf_back.png"
+    }
+]

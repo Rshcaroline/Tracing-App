@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nearby_menu.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\menu\\nearby_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_menu.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

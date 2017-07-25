@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0dp"
+        >
+
+        <com.amap.api.maps.MapView
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+    </RelativeLayout>
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/AppTheme"
+        app:theme="@style/ToolbarTheme"
+        app:popupTheme="@style/ToolbarPopupTheme"
+        >
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+        <com.xc.xcskin.view.XCArcMenuView
+            android:id="@+id/arcmenu2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="15pt"
+            android:layout_marginRight="15pt"
+            android:clipChildren="false"
+            app:position="right_bottom"
+            app:radius="150dp" >
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="80pt"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                card_view:fabSize="mini"
+                app:srcCompat="@drawable/tools"
+                android:id="@+id/id_button8"
+                app:backgroundTint="@android:color/holo_orange_light"
+                app:elevation="3dp" />
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:id="@+id/id_button9"
+                android:src="@drawable/group2"
+                android:scaleType="centerCrop"
+                android:tag = "group" />
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:id="@+id/id_button10"
+                android:src="@drawable/search"
+                android:scaleType="centerCrop"
+                android:tag = "search"/>
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/ilikehere"
+                android:scaleType="centerCrop"
+                android:id="@+id/id_button12"
+                android:tag = "write something"/>
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/nearby2"
+                android:scaleType="centerCrop"
+                android:id="@+id/id_button11"
+                android:tag = "nearby"/>
+
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:id="@+id/id_button13"
+                android:src="@drawable/compass"
+                android:scaleType="centerCrop"
+                android:tag = "where am i"/>
+
+
+        </com.xc.xcskin.view.XCArcMenuView>
+
+    </RelativeLayout>
+
+</FrameLayout>
+
+<android.support.design.widget.NavigationView
+    android:id="@+id/nav_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    app:itemTextColor="#2B2B2B"
+    app:itemIconTint="#2B2B2B"
+    app:menu="@menu/nav_menu"
+    >
+</android.support.design.widget.NavigationView>
+<!-- 主内容区的布局代码要放在侧滑菜单布局的前面,这可以帮助DrawerLayout判断谁是侧滑菜单，谁是主内容区 -->
+<!-- -->
+
+</android.support.v4.widget.DrawerLayout>

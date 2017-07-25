@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:2:1-158:12
+	package
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:20:5-43
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:6:9-35
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:9:19-57
+supports-screens
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:21:5-81
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:21:22-78
+uses-feature#0x00020000
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:23:5-54
+	android:glEsVersion
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:23:19-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:37:9-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:40:5-75
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:40:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:41:5-80
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:41:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:45:5-81
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:45:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:47:5-79
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:47:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:51:5-76
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:51:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:53:5-76
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:53:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:61:5-89
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:61:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:63:5-68
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:63:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:64:5-74
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:64:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:65:5-84
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:65:22-81
+application
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:68:5-156:19
+MERGED from [com.android.support:design:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:support-v4:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:71:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:72:9-35
+	android:allowBackup
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:69:9-35
+	android:icon
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:70:9-40
+	android:largeHeap
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:20:9-33
+	android:theme
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:73:9-40
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:74:9-76:64
+	android:value
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:76:13-61
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:75:13-50
+service#com.amap.api.location.APSService
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:78:9-68
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:78:18-65
+activity#com.fdwireless.trace.ui.main.LoginActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:80:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:81:13-85:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:82:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:84:17-77
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:84:27-74
+activity#com.fdwireless.trace.ui.main.MainActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:87:9-89:39
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:88:13-69
+activity#com.fdwireless.trace.mapmodule.CardActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:90:9-92:51
+	android:theme
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:92:13-48
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:91:13-41
+activity#com.fdwireless.trace.mapmodule.NewClipActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:93:9-95:54
+	android:theme
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:95:13-51
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:94:13-44
+activity#com.fdwireless.trace.ui.main.RegisterActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:96:9-82
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:96:19-79
+activity#com.fdwireless.trace.ui.nav.NavUser
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:97:9-72
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:97:19-69
+activity#com.fdwireless.trace.ui.nav.NavFriends
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:98:9-75
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:98:19-72
+activity#com.fdwireless.trace.ui.nav.NavTeam
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:99:9-72
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:99:19-69
+activity#com.fdwireless.trace.ui.nav.NavSettings
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:100:9-76
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:100:19-73
+activity#com.fdwireless.trace.ui.friend_circle.NearbyActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:102:9-89
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:102:19-86
+activity#com.fdwireless.trace.ui.menu.MenuSearch
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:103:9-104:38
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:104:13-36
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:103:19-73
+activity#com.fdwireless.trace.ui.menu.MenuGroupPeople
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:105:9-107:33
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:107:13-30
+	android:theme
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:105:19-78
+activity#com.fdwireless.trace.ui.team.GroupFour
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:108:9-75
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:108:19-72
+activity#com.fdwireless.trace.ui.menu.MenuSendNearby
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:109:9-111:20
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:109:19-77
+activity#com.fdwireless.trace.ar.UnityPlayerNativeActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:114:9-128:20
+	android:screenOrientation
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:119:13-51
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:117:13-45
+	android:launchMode
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:118:13-48
+	android:configChanges
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:116:13-170
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:115:13-77
+meta-data#unityplayer.UnityActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:122:13-124:40
+	android:value
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:124:17-37
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:123:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:125:13-127:41
+	android:value
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:127:17-38
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:126:17-71
+activity#com.fdwireless.trace.ar.SecondActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:129:9-134:51
+	android:process
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:131:13-44
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:134:13-39
+	android:launchMode
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:132:13-48
+	android:theme
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:133:13-49
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:130:13-66
+activity#com.fdwireless.trace.ar.UnityPlayerActivity
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:135:9-138:60
+	android:process
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:137:13-43
+	android:launchMode
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:138:13-48
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:136:13-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:139:9-143:52
+	android:screenOrientation
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:142:13-45
+	android:configChanges
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:141:13-170
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:140:13-58
+uses-library#com.ti.s3d
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:149:9-151:40
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:150:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:153:9-155:40
+	android:required
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from D:\AndroidstudioProject\test8\android\MapModule\app\src\main\AndroidManifest.xml:154:13-54
+activity#cn.finalteam.galleryfinal.PhotoSelectActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:23:13-73
+activity#cn.finalteam.galleryfinal.PhotoEditActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:28:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:27:13-71
+activity#cn.finalteam.galleryfinal.PhotoPreviewActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:32:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:31:13-74
+uses-permission#android.permission.GET_TASKS
+ADDED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] D:\AndroidstudioProject\test8\android\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:26:22-66

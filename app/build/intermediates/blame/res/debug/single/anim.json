@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_bottom_enter.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\dialog_bottom_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_anticipate_interpolator.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gf_flip_horizontal_in.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\anim\\gf_flip_horizontal_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_main_rotate_right.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_main_rotate_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_bottom_quit.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\dialog_bottom_quit.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_overshoot_interpolator.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_anim_click.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_anim_click.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_click_interpolator.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_click_interpolator.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_out_rotate_interpolator.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_out_rotate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gf_flip_horizontal_out.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\anim\\gf_flip_horizontal_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_main_rotate_left.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_main_rotate_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sat_item_in_rotate_interpolator.xml",
+        "source": "D:\\AndroidstudioProject\\test8\\android\\MapModule\\app\\src\\main\\res\\anim\\sat_item_in_rotate_interpolator.xml"
+    }
+]

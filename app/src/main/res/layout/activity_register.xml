@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/bg1" >
+
+    <ImageButton
+        android:id="@+id/pic_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/add_icon"
+        android:layout_margin="5dp"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp" >
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="18sp"
+            android:text="  Account:"
+            android:textColor="#4D4D4D"/>
+        <EditText
+            android:id="@+id/accountrig"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:hint="What's your name?"
+            android:textColor="#4D4D4D"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp" >
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="18sp"
+            android:text="  Password:"
+            android:textColor="#4D4D4D"/>
+        <EditText
+            android:id="@+id/passwordrig"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:inputType="textPassword"
+            android:hint="Choose a password!"
+            android:textColor="#4D4D4D" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/signup"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_selector"
+            android:textColor="@color/white"
+            android:text="Sign me up!"
+            android:textSize="16sp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="250dp"
+    android:layout_height="300dp" >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        >
+        <com.fdwireless.trace.ui.graph.CircleImageView
+            android:id="@+id/group_kenan"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/kenan"
+            android:layout_gravity="center_vertical"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="10dp"
+        >
+        <TextView
+            android:id="@+id/TextView_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="队伍人数："
+            android:textSize="18dp" />
+        <Spinner
+            android:id="@+id/Spinner_number"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textColor="#2196F3" >
+        </Spinner>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp" >
+        <TextView
+            android:id="@+id/TextView_route"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="队伍路线："
+            android:textSize="18dp" />
+        <Spinner
+            android:id="@+id/Spinner_route"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textColor="#2196F3" >
+        </Spinner>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_gravity="center">
+        <Button
+            android:id="@+id/Button_team"
+            android:background="@drawable/button_selector"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="开始游戏吧!" />
+    </LinearLayout>
+</LinearLayout>
