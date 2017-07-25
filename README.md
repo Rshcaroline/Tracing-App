@@ -1,9 +1,6 @@
 # Tracing
 An app, won 1st runner up in 2017-IShamrock Software Competition
 
-# Tracing-App
-An app, won 1st runner up in 2017-IShamrock Software Competition
-
 # 项目概述
 ## 开发背景
 移动互联网时代全面到来后，媒体生态发生了革命性的变化，创新成为发展动力的源泉。2017年度的三叶草软件竞赛（iShamrock Software Competition）以“移动媒体创新– 媒体应用使生活更美好”作为比赛主题，正契合于当下的时代旋律。<br>
